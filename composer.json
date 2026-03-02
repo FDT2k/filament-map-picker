@@ -1,5 +1,5 @@
 {
-    "name": "dotswan/filament-map-picker",
+    "name": "kda/filament-map-picker",
     "description": "Easily pick and retrieve geo-coordinates using a map-based interface in your Filament applications.",
     "keywords": [
         "dotswan",
@@ -25,7 +25,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "filament/filament": "^4.0",
+        "filament/filament": "^5.0",
         "spatie/laravel-package-tools": "^1.19.0",
         "illuminate/contracts": "^10.0 || ^11.0 || ^12.0"
     },
